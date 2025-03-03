@@ -1,0 +1,68 @@
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration files
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Log files
+*.log
+
+# Android Studio files
+/.idea/
+/*.iml
+/.DS_Store
+*.swp
+*.swo
+*.swn
+
+# Compiled files
+*.apk
+*.ap_
+*.dex
+
+# Keystore files (important for security)
+*.jks
+*.keystore
+
+# Generated files
+/captures/
+/outputs/
+/intermediates/
+/generated/
+/bin/
+/obj/
+
+# Flutter (if used)
+/.flutter-plugins
+/flutter_export_environment.sh
+/.metadata
+/.packages
+
+# Crashlytics and Firebase files
+crashlytics-build.properties
+fabric.properties
+
+# Kotlin specific files
+*.kotlin_metadata
+
+# Jetpack Compose previews
+.idea/compose-preview/
+
+# Miscellaneous
+*.class
+*.pyc
+*.pyo
+*.so
+*.o
+*.lo
+*.la
+*.al
+*.swp
